@@ -1,0 +1,11 @@
+
+Maternal dataset :
+ 
+Melakukan klasifikasi RiskLevel (level resiko ibu hamil) berdasarkan age, systolic, diastolic, Blood sugar, dan heart rate dengan keterangan kolom sbb : 
+
+Age: Any ages in years when a women during pregnant.
+SystolicBP: Upper value of Blood Pressure in mmHg, another significant attribute during pregnancy.
+DiastolicBP: Lower value of Blood Pressure in mmHg, another significant attribute during pregnancy.
+BS: Blood glucose levels is in terms of a molar concentration, mmol/L.
+HeartRate: A normal resting heart rate in beats per minute.
+Risk Level: Predicted Risk Intensity Level during pregnancy considering the previous attribute.
